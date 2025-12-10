@@ -385,6 +385,6 @@ The translations are deployed automatically in the plugin translations folder. (
 
 ## Contact
 
-Interested in integrating VIVA Payments into your SAP CCO POS? Contact us at [cco-onboarding@viva.com](mailto:cco-onboarding@viva.com?subject=CCO%3A%20Onboarding%20Request) for more information.
+Interested in integrating VIVA Payments into your SAP CCO POS? Contact us at [skessler@viva.com](mailto:skessler@viva.com?subject=CCO%3A%20Onboarding%20Request) for more information.
 
 Found bugs? Please report them at [support@cco-support.com](mailto:support@cco-support.com?subject=VIVA%3ASupport%20Request).
